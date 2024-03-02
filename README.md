@@ -37,7 +37,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to modif
 ## Contact
 
 - **Devanshu Rana**
-- Email: devanshurana4492@example.com
+- Email: devanshurana4492@gmail.com
 - LinkedIn: [linkedin.com/in/devanshu-rana-iitr](https://www.linkedin.com/in/devanshu-rana-iitr/)
 
 Thank you for visiting my portfolio website! 😊
