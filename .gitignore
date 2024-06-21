@@ -1,1 +1,5 @@
+# Mac/OSX
 .DS_Store
+
+# Ignore temporary files
+*.tmp
